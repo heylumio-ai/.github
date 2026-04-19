@@ -19,7 +19,7 @@ Shoppers increasingly start product research inside AI assistants. Those assista
 
 ### Who we build for
 
-Mid-market ecommerce merchants — typically $1M–$50M GMV — who take product content seriously and want to be ready for how shoppers actually find things now.
+Mid-market ecommerce merchants — typically $1M–$500M GMV — who take product content seriously and want to be ready for how shoppers actually find things now.
 
 ### How we work
 
