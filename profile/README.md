@@ -24,7 +24,3 @@ Mid-market ecommerce merchants — typically $1M–$50M GMV — who take product
 ### How we work
 
 Small team. Product-led. Shipping quickly and iterating in public where we can. We use AI heavily in our own stack — both to build Lumio and to run the company.
-
----
-
-[heylumio.ai](https://heylumio.ai)
